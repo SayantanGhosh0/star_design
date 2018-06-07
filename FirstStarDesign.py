@@ -1,11 +1,4 @@
 print("Welcome to my code")
-#at = "hi there"
-#at = "".join(reversed(at))
-#print(at)
-
-#at = at.split(' ')
-
-#print(at[0])
 
 import turtle
 
